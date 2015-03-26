@@ -9,7 +9,7 @@ public class Absolute {
 		
 		float y;
 		int x;
-		Scanner input = new Scanner( System.in );
+		Scanner input = new Scf
 		System.out.printf("enter a float value:");
 		y= input.nextFloat();
 		System.out.printf("\n Given float value : y= %f\n",y);
