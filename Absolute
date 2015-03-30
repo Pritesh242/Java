@@ -5,7 +5,7 @@ public class Absolute {
 	/**
 	 * @param args
 	 */
-	public t = new Scf
+	public t = new Scf //comment
 		System.out.printf("enter a float value:");
 		y= input.nextFloat();
 		System.out.printf("\n Given float value : y= %f\n",y);
