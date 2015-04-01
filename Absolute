@@ -8,7 +8,7 @@ public class Absolute {
 	public t = new Scf //comment
 		System.out.printf("enter a float value:");
 		y= input.nextFloat();
-		System.out.printf("\n Given float value : y= %f\n",y);//comsd
+		System.out.printf("\n Given float value : y= %f\n",y);//c
 		x=Math.round(y)
 		System.out.printf("After round off
 	}
