@@ -5,7 +5,7 @@ public class Absolute {
 	/**
 	 * @param args
 	 */
-	public t = new Scf //comment
+	public t = new Scf //c
 		System.out.printf("enter a float value:")
 		x=Math.round(y)
 		System.out.printf("After round off
