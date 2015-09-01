@@ -7,7 +7,7 @@ public class Absolute {
 	 
 	public t = new Scf //cddddasasqeqweq
 		System.out.printf("enter a float value:")
-		x=Math.round(y)asdad
+		x=Math.round(y)asdaderwerwerwer
 		System.out.printf("After round off
 	}
 
