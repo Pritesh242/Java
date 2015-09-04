@@ -4,6 +4,6 @@ public class Enotation {
 	{
 		double cellno =912345678L;
 		System.out.printf("My cell number is%3.2E%n",cellno);
-		System,out.printlmlmfdldffl
+		System,out.pzcdrintlmlmfdldffl
 	}
 }
